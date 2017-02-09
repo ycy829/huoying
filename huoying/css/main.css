@@ -1,0 +1,15 @@
+*{
+	padding: 0;
+	margin: 0;	
+}
+/*#wrap{
+	height: 500px;
+}*/
+.head_top{
+	width: 100%;
+	height: 45px;
+	background: #141c29;
+}
+img{
+	width: 100%;
+}
